@@ -137,4 +137,6 @@ These commands are crucial for managing your Solana wallets:
 
 This project is licensed under the [MIT License](/LICENSE). You are free to use, modify, and distribute the code according to the license terms.
 
-Update: url is now operational and clickable
+
+
+Update: url is back online and live
